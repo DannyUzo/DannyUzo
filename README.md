@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DannyUzo
-- 👀 I’m interested in writing efficient code to solve a real problem
+- 👀 I’m interested in writing efficient code to solve a real problems
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me ...
