@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @DannyUzo 
 - 👀 I’m interested in writing efficient code to solve a real problems
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning Web3
 - 💞️ I’m looking to collaborate on any project 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me uzodinmadaniel42@gmail.com
+- 😄 Pronouns: He/ Him
 - ⚡ Fun fact: ...
 
 <!---
